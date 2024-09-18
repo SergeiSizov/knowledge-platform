@@ -31,3 +31,7 @@ hugo serve
 ```
 
 > **_NOTE:_** With Hugo, you can see your changes live as you make them.
+
+## Versioning
+
+Tags are created automatically when pull request is merged to main.

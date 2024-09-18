@@ -1,8 +1,8 @@
 +++
 title = "Training Platform"
 date = 2022-12-22T05:07:10+02:00
-weight = 2000
-chapter = false 
+weight = 1
+chapter = false
 pre = ""
 +++
 
