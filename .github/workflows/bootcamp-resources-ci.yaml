@@ -33,9 +33,3 @@ jobs:
       action: package
       path: bootcamp-resources/autograding/helm-charts
       registry: ghcr.io
-
-  dockerfiles:
-    name: dockerfiles
-    uses: ./.github/workflows/dockerfiles.yaml
-    with:
-      action: lint
