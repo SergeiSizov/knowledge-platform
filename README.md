@@ -28,3 +28,11 @@ See [Running your own Knowledge Platform](./custom-knowledge-platform/README.md)
 ## Running locally
 
 See [running the Training Platform](./knowledge-base/) without customisation.
+
+## Versioning and releasing
+
+We use semantic versioning: `v{major}.{minor}.{patch}`.
+
+Merging a pull request will generate a new **minor** version, and a **tag** will be automatically created in the repository.
+
+Next, an image will be built and pushed to the Docker repository with the new version.
